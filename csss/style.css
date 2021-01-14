@@ -3,18 +3,13 @@ h1 {
   font-size: 4.5em;
   line-height: 90%;
 }
-/* 
-h4{
-  font-family: "Bebas Neue", cursive;
-}
- */
 
 .ebaggy-logo {
   width: 15%;
 }
 
-.green-highlight{
-  color: #2E7D32;
+.green-highlight {
+  color: #2e7d32;
 }
 
 header {
@@ -55,13 +50,13 @@ header {
   border-radius: 2rem !important;
 }
 
-button.btn.btn-primary.p-2 {
+.ebaggy-btn {
   border: 0;
   border-radius: 0.5em;
-  background-color: #363958 ;
+  background-color: #363958;
 }
 
-h2{
-  color: #2E7D32;
+h2 {
+  color: #2e7d32;
   font-weight: 700;
 }
