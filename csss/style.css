@@ -1,42 +1,41 @@
-.ebaggy-logo{
-    width: 20%;
+.ebaggy-logo {
+  width: 20%;
 }
 
-header{
-    background-color:#C8E6C9;
+header {
+  background-color: #c8e6c9;
 }
 
-.banner-img{
-    width: 75%;
+.banner-img {
+  width: 75%;
 }
 
-.ebaggy-info img{
-    width: 15%;
+.ebaggy-info img {
+  width: 15%;
 }
 
-.info-banner img{
-    width: 100%;
+.info-banner img {
+  width: 100%;
 }
 
 .ebaggy-item-grid .card {
-    border: 0;
-    border-radius: 1em !important;
+  border: 0;
+  border-radius: 1em !important;
 }
-
 
 .ebaggy-item-grid .card-footer {
-    border: 0;
+  border: 0;
 }
 
-#contact{
-    background-color: #C8E6C9;
+#contact {
+  background-color: #c8e6c9;
 }
 
 .product-img {
-    border-radius: 1.5em;
-    background-color: #F1F1F1;
+  border-radius: 1.5em;
+  background-color: #f1f1f1;
 }
 
 .ebaggy-info-service {
-    border-radius: 2rem !important;
+  border-radius: 2rem !important;
 }
