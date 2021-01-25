@@ -5,7 +5,7 @@ h1 {
 }
 
 .ebaggy-logo {
-  width: 15%;
+  width: 25%;
 }
 
 .green-highlight {
@@ -39,6 +39,7 @@ header {
 
 #contact {
   background-color: #c8e6c9;
+  border-radius: 2em;
 }
 
 .product-img {
@@ -59,4 +60,21 @@ header {
 h2 {
   color: #2e7d32;
   font-weight: 700;
+}
+
+@media only screen and (max-width: 601px) {
+  info > div {
+    flex-direction: column-reverse !important;
+  }
+}
+
+@media (min-width: 250px) and (max-width: 992px) {
+  .ebaggy-logo {
+    width: 70%;
+  }
+}
+
+#exampleFormControlInput1,
+#exampleFormControlTextarea1 {
+  border-radius: 0.8em;
 }
